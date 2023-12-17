@@ -4,8 +4,13 @@ Enter your code on line 7 to print 'Hello, World!'
 to the console (the panel on the right)
 */
 
-console.log("Hello");
+console.log('This is the song that never ends!')
+console.log(2+4);
+console.log("First message"+" Second message")
 
+console.log('Use single "quotes" around the text to use "real" "quotes".')
+
+console.log("The quick brown fox jumped over the lazy dog.")
 /*  
 Next, PLAY! 
 Modify your code on line 7 to try to accomplish the tasks listed below:
